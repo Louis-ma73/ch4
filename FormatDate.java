@@ -11,8 +11,8 @@ public class FormatDate {
 	public static void main(String[] args){
 	int year = 2026 ;
 	String month = "September" ;
-	int date = 14 ;
-	String day = "Monday" ;
+	int date = 22 ;
+	String day = "Tuesday" ;
 	printAmerican("American Format: ", day, month, date, year) ;
 	printEuropean("European Format: ", day, date, month, year) ;
 
